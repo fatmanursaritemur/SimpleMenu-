@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">İU YEMEK MENU</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="yemek_25">Sebze Çorbası \n İçli Köfte (Sebze Garnili) \n Yoğurtlu Mantı Makarna \n Limonlu Tiramisu </string>
+    <string name="yemek_26">Arpa Şehriye Çorbası \n Çiftlik Kebabı \n Sebzeli Erişte \n Yoğurt</string>
+
+    <string name="yemek_16">Mercimek Çorbası \n Etli Taze Fasülye \n Bulgur Pilavı \n Mevsim Salatası</string>
+    <string name="yemek_17">S.Pirinç Çorbası \n Mantarlı Tavuk Sote \n B.Soslu Makarna \n Bademli Şekerpare</string>
+    <string name="yemek_20">Mercimek Çorbası \n Etli Türlü \n Pirinç Pilavı \n Cacık</string>
+    <string name="yemek_21">Sebze Çorbası \n Et Döner (pilav garni) \n P.Güzeli Salatası \n Samsa Tatlısı</string>
+    <string name="yemek_22">K.Mantar Çorbası \n Piliç Topkapı \n Mantı \n Çilek</string>
+    <string name="yemek_23">Ezogelin Çorbası \n Tepsi Köfte (elma dilim pat.) \n Şehriye Pilavı \n Ayran</string>
+    <string name="yemek_24">K.Domates Çorbası \n K.Kabak Dolma (yoğ.) \n Soslu Makarna \n Fırın Sütlaç</string>
+    <string name="yemek_27">T.Şehriye Çorbası \n Etli Kuru Fasülye \n Pirinç Pilavı Muz</string>
+    <string name="yemek_28">Mercimek Çorbası \n Kadınbudu Köfte (tur.gar.) \n Z.Taze Fasülye Dondurma</string>
+    <string name="yemek_29">Sebze Çorbası \n Talalaş Kebabı \n Y.Havuç Tarator \n Erik</string>
+    <string name="yemek_30">Düğün Çorbası \n Piliç Kavurma \n Karışık Kızartma \n Cevizli Tel Kadayıf</string>
+    <string name="yemek_31">K.Mantar Çorbası \n Karnıyarık \n S.Spagetti Makarna \n Fıstıklı Muhallebi</string>
+    <string name="yemek_15">Borç Çorbası \n Dana Kızartma \n Pirinç Pilavı \n Yoğurt</string>
+
+</resources>
